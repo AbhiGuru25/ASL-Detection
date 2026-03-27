@@ -1,5 +1,7 @@
 # ASL (American Sign Language) Detection Web App 🖐️
 
+**🌐 Live Demo:** [https://asl-detection-web.streamlit.app/](https://asl-detection-web.streamlit.app/)
+
 An interactive Streamlit web application that uses Convolutional Neural Networks (CNNs) to automatically detect American Sign Language (ASL) hand signs from uploaded images. Built as part of the Unified Mentor Internship Project.
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)
